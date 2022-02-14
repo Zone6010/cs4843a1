@@ -61,4 +61,4 @@ use the link in the general tab titled "Distribution domain Name" and your HTML 
 be deployed in there. And with that, you have your website deployed.
 
 
-My Website: https://d2rdbbner7wwsv.cloudfront.net/
+My Website: https://d2rdbbner7wwsv.cloudfront.net/indextwo.html
