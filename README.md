@@ -33,7 +33,8 @@ there will be asection titled, "Static Website Hosting", press "Edit" next to th
 your "homepage".  Once done, press "save changes" at the bottom.
 
 You now have a static website URL, which can be modifed to allow access to users, or
-be used via CloudFront for better safety and faster delivery.
+be used via CloudFront for better safety and faster delivery.  This URL is static so 
+unless you take down the server, it should not change for any reason.
 
 # Hosting Via Cloudfront
 
@@ -57,4 +58,6 @@ take note of the "Distribution Domain Name", this is how you will access your we
 
 Save, and wait for your website to deploy.  Once you have no more errors, or checks to wait on, 
 use the link in the general tab titled "Distribution domain Name" and your HTML website should
-be deployed in there. And with that, you have your baseline finished.
+be deployed in there. And with that, you have your website deployed.
+
+
